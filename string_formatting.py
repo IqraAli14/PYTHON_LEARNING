@@ -1,13 +1,13 @@
 # f,formatted string literals
 # Yeh strings ke andar variables ko embed karne ka easy tareeqa hai.
-# 🔥 Example 1: f-string vs Normal Concatenation
+#  Example 1: f-string vs Normal Concatenation
 
-# 🔸 Without f-string (Concatenation Method)
+#  Without f-string (Concatenation Method)
 name= "Amairah"
 age= 21
 print("my name is "+ name + " and I'm " + str(age) + " years old")  #extra use of str(age)
 
-# 🔹 With f-string (Easy & Clean)
+#  With f-string (Easy & Clean)
 name="amairah"
 age=21
 print(f"my name is {name} and my age is {age} years old.")  #Strings aur variables directly embed ho jate hain {} ke andar.
