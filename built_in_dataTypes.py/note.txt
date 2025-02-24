@@ -1,1 +1,22 @@
+Python Data Structures: Lists, Tuples, Sets, and Dictionaries
+This repository contains Jupyter Notebooks in google colab explaining Python's fundamental data structures, including:
 
+Lists: Mutable, ordered collections with indexing and slicing.
+Tuples: Immutable sequences for fixed data storage.
+Sets: Unique, unordered collections with efficient membership checks.
+Dictionaries: Key-value pairs for optimized lookups.
+📌 Why Learn These?
+Mastering these structures helps in efficient programming, data manipulation, and algorithm optimization.
+
+📂 Notebooks Included:
+✅ list_in_python.ipynb - Deep dive into Python lists with examples.
+✅ tuples.ipynb - Understanding tuples and their use cases.
+✅ set_in_python.ipynb - Set operations, uniqueness, and performance insights.
+✅ dictionaries.ipynb - Working with key-value data efficiently.
+
+💡 Contribute & Explore
+Clone this repo, experiment with the code, and contribute to make it even better!
+
+📌 Repo Link: [https://github.com/IqraAli14/PYTHON_LEARNING/edit/main/built_in_dataTypes.py]
+
+🔗 Connect with me on LinkedIn for more Python insights!
