@@ -9,10 +9,10 @@ Dictionaries: Key-value pairs for optimized lookups.
 Mastering these structures helps in efficient programming, data manipulation, and algorithm optimization.
 
 📂 Notebooks Included:
-✅ list_in_python.ipynb - Deep dive into Python lists with examples.
-✅ tuples.ipynb - Understanding tuples and their use cases.
-✅ set_in_python.ipynb - Set operations, uniqueness, and performance insights.
-✅ dictionaries.ipynb - Working with key-value data efficiently.
+01: list_in_python.ipynb - Deep dive into Python lists with examples.
+02: tuples.ipynb - Understanding tuples and their use cases.
+03: set_in_python.ipynb - Set operations, uniqueness, and performance insights.
+04: dictionaries.ipynb - Working with key-value data efficiently.
 
 💡 Contribute & Explore
 Clone this repo, experiment with the code, and contribute to make it even better!
